@@ -8,12 +8,13 @@ public class MemoryAllocator {
         int i = 0;
         int j = 0;
         Random random = new Random();
+        long start = System.nanoTime();
         while (true) {
             garbage[random.nextInt(arraySize)] = new GarbageGenerator();
             if (i++ % arraySize == 0) {
                 System.out.print(j++ + " ");
                 if (j % 100 == 0) {
-                    System.out.println("");
+                    System.out.println(System.nanoTime() - start);
                 }
             }
         }
