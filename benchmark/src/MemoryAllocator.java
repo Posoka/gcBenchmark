@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
 public class MemoryAllocator {
-    final static int arraySize = 10000000;
+    final static int arraySize = 1000000;
 
     public static void main(String[] args) throws IllegalAccessException {
         Logger LOGGER = Logger.getLogger("MemoryAllocator");
@@ -45,16 +45,16 @@ public class MemoryAllocator {
     }
 
     static class GarbageGenerator {
-        String a1 = "1";
-        String a2 = "2";
-        String a3 = "3";
-        String a4 = "4";
-        String a5 = "5";
-        String a6 = "6";
-        String a7 = "7";
-        String a8 = "8";
-        String a9 = "9";
-        String a10 ="10";
+        String a1;
+        String a2 ;
+        String a3 ;
+        String a4 ;
+        String a5 ;
+        String a6 ;
+        String a7 ;
+        String a8 ;
+        String a9 ;
+        String a10;
 
         public GarbageGenerator() throws IllegalAccessException {
             Random random = new Random();
