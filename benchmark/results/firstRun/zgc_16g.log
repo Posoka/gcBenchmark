@@ -1,0 +1,14 @@
+[0.008s][info][gc] Using The Z Garbage Collector
+[1,666s][info][gc] GC(0) Garbage Collection (Warmup) 1716M(10%)->520M(3%)
+[4,041s][info][gc] GC(1) Garbage Collection (Warmup) 3434M(21%)->1282M(8%)
+[6,810s][info][gc] GC(2) Garbage Collection (Warmup) 4964M(30%)->1764M(11%)
+[14,978s][info][gc] GC(3) Garbage Collection (Allocation Rate) 11978M(73%)->3444M(21%)
+[16,776s][info][gc] GC(4) Garbage Collection (Allocation Rate) 4128M(25%)->2356M(14%)
+[20,432s][info][gc] GC(5) Garbage Collection (Allocation Rate) 7916M(48%)->2556M(16%)
+[25,099s][info][gc] GC(6) Garbage Collection (Allocation Rate) 10910M(67%)->3266M(20%)
+[27,482s][info][gc] GC(7) Garbage Collection (Allocation Rate) 5892M(36%)->2978M(18%)
+[31,093s][info][gc] GC(8) Garbage Collection (Allocation Rate) 8124M(50%)->3240M(20%)
+[33,198s][info][gc] GC(9) Garbage Collection (Allocation Rate) 4472M(27%)->3544M(22%)
+[35,532s][info][gc] GC(10) Garbage Collection (Allocation Rate) 5878M(36%)->3484M(21%)
+[39,507s][info][gc] GC(11) Garbage Collection (Allocation Rate) 10236M(62%)->3494M(21%)
+[43,301s][info][gc] GC(12) Garbage Collection (Allocation Rate) Aborted

@@ -30,7 +30,7 @@ public class MemoryAllocator {
             GarbageGenerator garbageGenerator = new GarbageGenerator();
             garbage[random.nextInt(arraySize)] = garbageGenerator;
             garbageGenerator.generateMoreGarbage();
-            if (i++ % arraySize == 0) {
+            if (i++ % (arraySize * 10) == 0) {
                 j++;
                 float timeInSec = (float)(System.nanoTime() - start)/1000000000;
                 System.out.printf("%5.3f \n", timeInSec);
