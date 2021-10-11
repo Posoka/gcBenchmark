@@ -1,0 +1,20 @@
+[0.006s][info][gc] Using Epsilon
+[0,194s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 54038K (5,15%) used
+[0,238s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 104M (10,23%) used
+[0,278s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 156M (15,31%) used
+[0,316s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 208M (20,39%) used
+[0,352s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 260M (25,47%) used
+[0,389s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 312M (30,54%) used
+[0,427s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 364M (35,62%) used
+[0,464s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 416M (40,70%) used
+[0,502s][info][gc] Heap: 1024M reserved, 512M (50,00%) committed, 468M (45,78%) used
+[0,540s][info][gc] Heap: 1024M reserved, 640M (62,50%) committed, 520M (50,86%) used
+[0,577s][info][gc] Heap: 1024M reserved, 640M (62,50%) committed, 572M (55,93%) used
+[0,613s][info][gc] Heap: 1024M reserved, 640M (62,50%) committed, 624M (61,01%) used
+[0,649s][info][gc] Heap: 1024M reserved, 768M (75,00%) committed, 676M (66,09%) used
+[0,684s][info][gc] Heap: 1024M reserved, 768M (75,00%) committed, 728M (71,17%) used
+[0,720s][info][gc] Heap: 1024M reserved, 896M (87,50%) committed, 780M (76,25%) used
+[0,756s][info][gc] Heap: 1024M reserved, 896M (87,50%) committed, 832M (81,33%) used
+[0,791s][info][gc] Heap: 1024M reserved, 896M (87,50%) committed, 884M (86,40%) used
+[0,827s][info][gc] Heap: 1024M reserved, 1024M (100,00%) committed, 936M (91,48%) used
+[0,862s][info][gc] Heap: 1024M reserved, 1024M (100,00%) committed, 988M (96,56%) used
